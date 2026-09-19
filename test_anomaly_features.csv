@@ -1,0 +1,4 @@
+window_start,packet_count,bytes_per_second,average_packet_size,tcp_packet_count,udp_packet_count,syn_count,rst_count,dns_query_count,unique_domains,unique_destination_ports
+1788703896.406067,12,149.4,124.5,12,0,2,0,0,0,2
+1788704066.406067,366,1245215.3,34022.27595628415,366,0,2,0,0,0,2
+1788704076.406067,99,406973.1,41108.393939393936,99,0,0,0,0,0,2
